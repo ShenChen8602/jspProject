@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-woooo~哈啊哈
+<%= request.getParameter("name") %>
 </body>
 </html>

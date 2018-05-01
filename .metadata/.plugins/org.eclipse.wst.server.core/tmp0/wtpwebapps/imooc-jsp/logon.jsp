@@ -12,7 +12,7 @@
 		<table align="center">
 			<tr>
 				<td>
-					账号：
+					AccountID：
 				</td>
 				<td>
 					<input type="text" name="account"/>
@@ -20,7 +20,7 @@
 			</tr>
 			<tr>
 				<td>
-					密码：
+					Password：
 				</td>
 				<td>
 					<input type="password" name="password"/>
@@ -28,7 +28,7 @@
 			</tr>
 			<tr>
 				<td>
-					<input type="submit" value="登录"/>
+					<input type="submit" value="login"/>
 				</td>
 			</tr>
 		</table>
